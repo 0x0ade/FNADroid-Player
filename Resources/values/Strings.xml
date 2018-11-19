@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">FNADroid Player</string>
+
+  <string name="BrowserTitle">FNADroid Player</string>
+
+  <string name="Refresh">Refresh</string>
+
+  <string name="Settings">Settings</string>
+
+  <string name="MainWarning"><![CDATA[>
+<b>WARNING:</b> FNADroid Player is an <b>unofficial wrapper.</b><br/>
+Do not report bugs to the game developers.<br/>
+  ]]></string>
+
+  <string name="Play">Play</string>
+  <string name="Edit">Edit</string>
+  <string name="Remove">Remove</string>
+
+  <string name="ListTail"><![CDATA[>
+<h4>How to add your games:</h4>
+<b>1.</b> Connect your phone to your PC.<br/>
+<br/>
+<b>2.</b> Copy your games to<br>/sdcard/Android/data/FNADroid.Player/files/<br/>
+<br/>
+<b>3.</b> Refresh the list.<br/>
+<br/>
+<b>4.</b> Hope for the best.<br/>
+  ]]></string>
+  
+  <string name="SettingsDefault">Default Settings</string>
+  
+  <string name="EnvVars">Environment Variables</string>
+  
+  <string name="SettingsReset">Reset Settings</string>
+  
+  <string name="License">License</string>
+
+</resources>
